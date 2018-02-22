@@ -35,7 +35,7 @@
  .  ____  .    ____________________________
  |/      \|   |                            |
 [| <span style="color: #FF0000;">&hearts;    &hearts;</span> |]  | Git Deployment Testing |
- |___==___|  /              &copy; oodavid 2012 |
+ |___==___|  /              &copy;         |
               |____________________________|
 
 <?php echo $output; ?>
