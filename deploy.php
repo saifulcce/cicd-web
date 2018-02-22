@@ -12,9 +12,6 @@
 		'whoami',
 		'ls -lrth',
 		'git status',
-		'git submodule sync',
-		'git submodule update',
-		'git submodule status',
 	);
 	// Run the commands for output
 	$output = '';
@@ -37,7 +34,7 @@
 <pre>
  .  ____  .    ____________________________
  |/      \|   |                            |
-[| <span style="color: #FF0000;">&hearts;    &hearts;</span> |]  | Git Deployment Script v0.1 |
+[| <span style="color: #FF0000;">&hearts;    &hearts;</span> |]  | Git Deployment Testing |
  |___==___|  /              &copy; oodavid 2012 |
               |____________________________|
 
